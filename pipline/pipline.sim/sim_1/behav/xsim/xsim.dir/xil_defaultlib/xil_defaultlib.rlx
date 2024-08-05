@@ -1,0 +1,27 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/verilog/multi_cycle/multi_cycle.srcs/sources_1/imports/sources_1/new/datamemorydecoder.sv,1652270556,systemVerilog,,D:/verilog/pipline/pipline.srcs/sources_1/new/datapath.sv,,dMemoryDecoder,,,,,,,,
+D:/verilog/pipline/pipline.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+,,,,,,iosim,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/imports/new/IO.sv,1648556861,systemVerilog,,D:/verilog/pipline/pipline.srcs/sources_1/new/MIPS.sv,,IO,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/imports/new/imem.sv,1652269181,systemVerilog,,D:/verilog/pipline/pipline.srcs/sources_1/new/iotop.sv,,iMem,,,,,,,,
+,,,,D:/verilog/pipline/pipline.srcs/sources_1/new/regfile.sv,,hex;mux7seg,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/imports/verilog/mips_final/project_2.srcs/sources_1/new/dmem.sv,1652269134,systemVerilog,,D:/verilog/pipline/pipline.srcs/sources_1/new/eqcmp.sv,,dMem,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/new/MIPS.sv,1652176746,systemVerilog,,D:/verilog/pipline/pipline.srcs/sources_1/new/alu.sv,,MIPS,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/new/Top.sv,1652268986,systemVerilog,,D:/verilog/pipline/pipline.srcs/sources_1/new/alu.sv,,Top,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/new/alu.sv,1652175222,systemVerilog,,D:/verilog/pipline/pipline.srcs/sources_1/new/aludec.sv,,adder;alu,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/new/aludec.sv,1652175521,systemVerilog,,D:/verilog/pipline/pipline.srcs/sources_1/new/controller.sv,,aludec,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/new/controller.sv,1652177459,systemVerilog,,D:/verilog/multi_cycle/multi_cycle.srcs/sources_1/imports/sources_1/new/datamemorydecoder.sv,,controller,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/new/datapath.sv,1652176117,systemVerilog,,D:/verilog/pipline/pipline.srcs/sources_1/imports/verilog/mips_final/project_2.srcs/sources_1/new/dmem.sv,,datapath,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/new/eqcmp.sv,1652153767,systemVerilog,,D:/verilog/pipline/pipline.srcs/sources_1/new/flopenr.sv,,eqcmp,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/new/flopenr.sv,1652171769,systemVerilog,,D:/verilog/pipline/pipline.srcs/sources_1/new/flopr.sv,,flopenr;flopenrc,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/new/flopr.sv,1652170192,systemVerilog,,D:/verilog/pipline/pipline.srcs/sources_1/new/hazard.sv,,flopr;floprc,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/new/hazard.sv,1652177310,systemVerilog,,D:/verilog/pipline/pipline.srcs/sources_1/imports/new/imem.sv,,hazard,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/new/iotop.sv,1652270020,systemVerilog,,D:/verilog/pipline/pipline.srcs/sources_1/new/maindec.sv,,iotop,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/new/maindec.sv,1652191974,systemVerilog,,D:/verilog/pipline/pipline.srcs/sources_1/new/mux2.sv,,maindec,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/new/mux2.sv,1652171823,systemVerilog,,D:/verilog/pipline/pipline.srcs/sources_1/new/mux3.sv,,mux2,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/new/mux3.sv,1652154493,systemVerilog,,D:/verilog/pipline/pipline.srcs/sources_1/imports/new/mux7seg.sv,,mux3,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/new/regfile.sv,1652158314,systemVerilog,,D:/verilog/pipline/pipline.srcs/sources_1/new/shift.sv,,regfile,,,,,,,,
+D:/verilog/pipline/pipline.srcs/sources_1/new/shift.sv,1652153993,systemVerilog,,D:/verilog/pipline/pipline.srcs/sim_1/imports/new/iosim.sv,,signext;sl2,,,,,,,,
